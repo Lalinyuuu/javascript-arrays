@@ -22,3 +22,8 @@ const employees = [
 ];
 
 // Start coding here
+//ลบ Object ของพนักงานที่ชื่อ “Kody” ใน updateEmployees
+//เมื่อลบข้อมูลเสร็จแล้วให้ console.log ดูค่าของ employees
+
+employees.pop(); 
+console.log(employees);
