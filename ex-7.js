@@ -59,7 +59,4 @@ orders.shift();
 console.log(creditCardTypeOfBlindermann)
 console.log(productQuantityOfJoannet)
 console.log(totalPurchaseOfDary)
-orders[2].creditCardType="visa";
-orders.shift
-
 console.log(orders)
