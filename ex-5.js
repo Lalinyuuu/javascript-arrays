@@ -1,4 +1,4 @@
-const employees = [
+const updateEmployees = [
   {
     name: "James",
     age: 40,
@@ -22,3 +22,6 @@ const employees = [
 ];
 
 // Start coding here
+
+updateEmployees[3].pop
+console.log(updateEmployees)
